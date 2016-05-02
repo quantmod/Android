@@ -41,7 +41,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.example.toolbar.R;
-
+//该HorizontalScrollView实现了viewpager上的标题文字
 public class PagerSlidingTabStrip extends HorizontalScrollView {
 
 	public interface IconTabProvider {
