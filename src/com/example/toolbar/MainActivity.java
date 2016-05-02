@@ -27,6 +27,7 @@ import android.widget.Toast;
 import com.example.toolbar.widget.PagerSlidingTabStrip;
 
 public class MainActivity extends ActionBarActivity {
+	//参考文章：http://blog.csdn.net/jdsjlzx/article/details/41441083/#0-qzone-1-84816-d020d2d2a4e8d1a374a433f596ad1440
 	private DrawerLayout mDrawerLayout;
 	private ActionBarDrawerToggle mDrawerToggle;
 	private ShareActionProvider mShareActionProvider;
